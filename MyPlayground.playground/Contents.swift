@@ -14,3 +14,16 @@ func addTwoNumbers(arg param1:Int, arg2 param2:Int) -> Int {
 
 let sum = addTwoNumbers(arg: 2, arg2: 3)
 print(sum)
+
+
+func subtractTwoNumbers(arg param1:Int, arg2 param2:Int) -> Int {
+   
+    let a = param1
+    let b = param2
+    let c = a - b
+    return c
+    
+}
+
+let total = subtractTwoNumbers(arg: 2, arg2: 1)
+print(total)
