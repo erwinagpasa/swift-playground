@@ -27,3 +27,16 @@ func subtractTwoNumbers(arg param1:Int, arg2 param2:Int) -> Int {
 
 let total = subtractTwoNumbers(arg: 2, arg2: 1)
 print(total)
+
+
+func multiplyTwoNumbers(_ param1:Int, _ param2:Int) -> Int {
+   
+    let a = param1
+    let b = param2
+    let c = a * b
+    return c
+    
+}
+
+let answer = multiplyTwoNumbers(2, 2)
+print(answer)
