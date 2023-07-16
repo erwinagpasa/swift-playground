@@ -10,6 +10,7 @@ func showFirstScreen(){
   }else{
     print("Show Onboarding Screen")
   }
+  
 }
 
 func checkUserStatus(didCompleteOnboarding:Bool, profileIsCreate:Bool) -> Bool {
