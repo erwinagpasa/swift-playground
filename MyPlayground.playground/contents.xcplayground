@@ -3,5 +3,7 @@
     <pages>
         <page name='FunctionWithReturnBool'/>
         <page name='FunctionWithReturnVoid'/>
+        <page name='FunctionWithMultipleReturn'/>
+        <page name='StructandClasses'/>
     </pages>
 </playground>
