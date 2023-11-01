@@ -6,5 +6,6 @@
         <page name='FunctionWithMultipleReturn'/>
         <page name='StructandClasses'/>
         <page name='ClassWithFunction'/>
+        <page name='ClassInheritance'/>
     </pages>
 </playground>
