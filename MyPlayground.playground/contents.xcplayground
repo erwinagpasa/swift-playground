@@ -7,5 +7,6 @@
         <page name='StructandClasses'/>
         <page name='ClassWithFunction'/>
         <page name='ClassInheritance'/>
+        <page name='Loops'/>
     </pages>
 </playground>
