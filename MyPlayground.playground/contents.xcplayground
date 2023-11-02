@@ -8,5 +8,7 @@
         <page name='ClassWithFunction'/>
         <page name='ClassInheritance'/>
         <page name='Loops'/>
+        <page name='Optional'/>
+        <page name='UnwrappingOptional'/>
     </pages>
 </playground>
