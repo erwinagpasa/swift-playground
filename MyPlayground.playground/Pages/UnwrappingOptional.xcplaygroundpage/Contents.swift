@@ -1,7 +1,7 @@
 import Foundation
 
-var x = Int? = 3
-var y = Int? = 12
+var x: Int? = 3
+var y: Int? = 12
 
 // This will give as an Error
 // Error: UnwrappingOptional.xcplaygroundpage:4:16:
@@ -13,3 +13,11 @@ var y = Int? = 12
 
 
 // use unwrapping optional
+if let myValue = x {
+  
+  if let myValue2 = y {
+    let result = myValue + myValue2
+    print(result)
+    
+  }
+}
