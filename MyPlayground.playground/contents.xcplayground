@@ -11,5 +11,7 @@
         <page name='Optional'/>
         <page name='UnwrappingOptional'/>
         <page name='GuardStatement'/>
+        <page name='Enum'/>
+        <page name='EnumAndSwitch'/>
     </pages>
 </playground>

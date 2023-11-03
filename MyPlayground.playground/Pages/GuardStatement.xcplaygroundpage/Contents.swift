@@ -2,15 +2,18 @@ import Foundation
 
 
 
-//Guard Statement
+// Guard Statement
 func numberLargerThanFive(number: Int) -> Bool {
   guard number > 5 else {
     return false
   }
   // If the number is greater than 5, run the code below
   return true
-  
 }
+
+var mynumber: Int = 6
+let result = numberLargerThanFive(number: mynumber)
+print(result)
 
 
 //Similar to If Statement
@@ -24,7 +27,7 @@ func numberLargerThanFive(number: Int) -> Bool {
 
 
 var text: String?
-text = "Hello world"
+//text = "Hello world"
 
 //using if
 if let value = text {
