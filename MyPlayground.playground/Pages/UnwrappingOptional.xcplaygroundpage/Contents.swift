@@ -13,11 +13,18 @@ var y: Int? = 12
 
 
 // use unwrapping optional
-if let myValue = x {
+if let myValue = x { //if there is a value of x run below code
   
   if let myValue2 = y {
     let result = myValue + myValue2
     print(result)
-    
   }
 }
+
+
+var price: Double? = nil
+print(price)
+price = 1.23
+print(price)
+
+type(of: price)

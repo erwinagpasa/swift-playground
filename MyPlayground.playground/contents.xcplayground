@@ -10,5 +10,6 @@
         <page name='Loops'/>
         <page name='Optional'/>
         <page name='UnwrappingOptional'/>
+        <page name='GuardStatement'/>
     </pages>
 </playground>
