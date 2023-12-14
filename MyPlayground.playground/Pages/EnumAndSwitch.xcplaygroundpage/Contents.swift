@@ -11,16 +11,23 @@ enum States {
 let current = States.InProgress
 
 func checkState() {
-    switch current {
+   
+  switch current {
+  
     case .InProgress:
         print("In Progress")
+      break
     case .Aborted:
         print("Aborted")
+      break
     case .Complete:
         print("Complete")
+      break
     case .WillStart:
         print("Will Start")
-    }
+      break
+  
+  }
 }
 
 checkState()

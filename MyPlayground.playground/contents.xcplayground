@@ -13,5 +13,7 @@
         <page name='GuardStatement'/>
         <page name='Enum'/>
         <page name='EnumAndSwitch'/>
+        <page name='ClosureOrLambda'/>
+        <page name='Array'/>
     </pages>
 </playground>
